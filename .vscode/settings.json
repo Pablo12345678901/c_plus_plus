@@ -78,7 +78,8 @@
         "thread": "cpp",
         "cinttypes": "cpp",
         "iomanip": "cpp",
-        "strstream": "cpp"
+        "strstream": "cpp",
+        "stack": "cpp"
     },
     "python.terminal.activateEnvironment": false,
 }
