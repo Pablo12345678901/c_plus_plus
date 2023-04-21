@@ -25,7 +25,7 @@ int main()
     cout << endl ;
     ifstream entree (nom_fichier, ios::in | ios::binary) ; // ouverture du fichier en mode lecture
     if (!entree)
-    {   cout << "Création impossible" << endl ; // si erreur recontrée, alors message d'erreur + quitte programme
+    {   cout << "Lecture impossible" << endl ; // si erreur recontrée, alors message d'erreur + quitte programme
         exit(1) ;
     }
     while (entree.read((char *) &nb, sizeof(int)))
