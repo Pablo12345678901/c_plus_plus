@@ -79,7 +79,12 @@
         "cinttypes": "cpp",
         "iomanip": "cpp",
         "strstream": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "span": "cpp",
+        "stacktrace": "cpp"
     },
     "python.terminal.activateEnvironment": false,
 }
