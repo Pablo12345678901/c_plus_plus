@@ -84,7 +84,8 @@
         "map": "cpp",
         "set": "cpp",
         "span": "cpp",
-        "stacktrace": "cpp"
+        "stacktrace": "cpp",
+        "filesystem": "cpp"
     },
     "python.terminal.activateEnvironment": false,
 }
